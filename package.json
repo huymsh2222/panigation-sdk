@@ -1,0 +1,29 @@
+{
+  "name": "panigation-sdk-mrdx",
+  "version": "1.1.1",
+  "description": "panigation-sdk-mrdx",
+  "main": "index.js",
+  "files": [
+    "test",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "MrDx <maihuy244@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conlaigi1497/panigation-sdk-mrdx"
+  },
+  "keywords": [
+    "panigation-sdk-mrdx"
+  ],
+  "bugs": {
+    "url": "https://github.com/conlaigi1497/panigation-sdk-mrdx/issues"
+  },
+  "homepage": "https://github.com/conlaigi1497/panigation-sdk-mrdx#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
